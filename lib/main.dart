@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       create: (_) => Counter(),
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Counter App',
+        title: 'Efficient Counter',
         home: CounterScreen(),
       ),
     );
